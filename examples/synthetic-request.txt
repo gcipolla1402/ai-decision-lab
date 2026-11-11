@@ -1,0 +1,11 @@
+SYNTHETIC DOCUMENT — FOR DEMONSTRATION ONLY
+
+Request ID: LAB-008
+Requester: Jordan Sample
+Date: 2026-10-22
+
+The requester asks for a human review of a fictional dataset access proposal.
+The request describes the intended purpose but does not include an expiration date,
+an approving party, or a signature.
+
+All names and events in this file are fictional.

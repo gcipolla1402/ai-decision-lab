@@ -1,0 +1,15 @@
+SYNTHETIC DOCUMENT — FOR DEMONSTRATION ONLY
+
+Invoice ID: DEMO-2026-041
+Date: 2026-10-20
+Supplier: Northstar Sample Studio
+Client: Example Research Collective
+
+Description: Design exploration services for a fictional prototype.
+Total due: USD 1,250.00
+Payment terms: 30 days from the invoice date.
+
+Signature: Alex Example, Demo Operations
+
+All names, amounts, and events in this file are fictional.
+
